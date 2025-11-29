@@ -139,16 +139,3 @@ http://localhost:8100
 
 ---
 
-## ✔️ Status do Projeto
-
-**Versão 1 lançada – funcionalidades principais completas.**
-
----
-
-## 📞 Contato dos Autores
-
-(Adicionar se necessário)
-
----
-
-Se precisar da versão atualizada com histórico, posso gerar o README V2 também!
