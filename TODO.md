@@ -75,12 +75,3 @@ Este arquivo lista todas as tarefas pendentes, melhorias futuras e pontos opcion
 - Gráficos de desempenho e métricas do atendimento.
 
 ---
-
-Se quiser, posso gerar também:
-
-📌 **ROADMAP.md**  
-📌 **CHANGELOG.md**  
-📌 **CONTRIBUTING.md**  
-📌 **LICENSE (MIT)**
-
-Só pedir!  
